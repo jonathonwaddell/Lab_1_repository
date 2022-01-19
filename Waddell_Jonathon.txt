@@ -1,3 +1,5 @@
 Jonathon Waddell
 Major: Statistics
 Emphasis: Data Science
+
+hobbies: personality profiling
